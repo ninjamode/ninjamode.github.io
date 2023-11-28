@@ -7,7 +7,7 @@ image:
 tags: [funded]
 
 authors:
-  - Daniel Roth
+  - admin
 
 ---
 
