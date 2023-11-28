@@ -11,10 +11,10 @@ main:
     url: /#section-people
     weight: 30
   - name: Research
-    url: /research
+    url: /#research
     weight: 40
   - name: Open Positions
-    url: /vacancies
+    url: /#vacancies
     weight: 50
   - name: Contact
     url: /#contact
