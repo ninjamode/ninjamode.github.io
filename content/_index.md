@@ -34,34 +34,30 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
+      columns: '2'
   
-  - block: markdown
+  - block: people
     content:
-      title:
-      subtitle: ''
-      text:
+      title: Meet the Team
+      # Choose which groups/teams of users to display.
+      #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
+      user_groups:
+        - Principal Investigators
+        - Researchers
+        - Grad Students
+        - Administration
+        - Visitors
+        - Alumni
+      sort_by: Params.last_name
+      sort_ascending: true
     design:
-      columns: '1'
-      background:
-        image: 
-          filename: coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
-  
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
+      # Show user's social networking links? (true/false)
+      show_social: false
+      # Show user's interests? (true/false)
+      show_interests: true
+      # Show user's role?
+      show_role: true
+      # Show user's organizations/affiliations?
+      show_organizations: true
+
 ---
