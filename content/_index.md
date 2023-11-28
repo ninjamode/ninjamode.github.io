@@ -29,7 +29,8 @@ sections:
 
   - block: markdown
     content:
-      title: A{{< figure src="logo_hex-petrol.png" caption="" theme="light" >}}
+      title: |
+        {{< figure src="logo_hex-petrol.png" caption="" >}}
       subtitle: About Us
       text: |
         ## Imagineering novel languages for the communication between humans (and machines).
