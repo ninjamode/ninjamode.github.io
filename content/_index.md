@@ -28,7 +28,7 @@ sections:
 
   - block: markdown
     content:
-      title: ![screen reader text](welcome.jpg "Logo")
+      title: ![HEX Lab logo](welcome.jpg "Logo")
       subtitle: About Us
       text: The **Human-Centered Design and Extended Reality Lab** is super cool.
     design:
@@ -38,7 +38,7 @@ sections:
 
   - block: markdown
     content:
-      title: {{< figure src="image.jpg" caption="A caption" numbered="true" >}}
+      title: {{< figure src="welcome.jpg" caption="Logo" numbered="false" >}}
       subtitle: About Us
       text: The **Human-Centered Design and Extended Reality Lab** is super cool. Add more content here.
     design:
