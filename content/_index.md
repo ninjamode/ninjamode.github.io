@@ -28,7 +28,7 @@ sections:
 
   - block: markdown
     content:
-      title: " thing "
+      title: " thing {{< figure src="welcome.jpg" caption="" theme="light" >}}"
       subtitle: About Us
       text: The **Human-Centered Design and Extended Reality Lab** is super cool.
     design:
@@ -38,9 +38,14 @@ sections:
 
   - block: markdown
     content:
-      title: This is markdown and a logo {{< figure src="welcome.jpg" caption="" theme="light" >}}
+      title: {{< figure src="welcome.jpg" caption="" theme="light" >}}
       subtitle: About Us
-      text: The **Human-Centered Design and Extended Reality Lab** is super cool.
+      text: |
+        ## Imagineering novel languages for the communication between humans (and machines).
+
+        Our research is centered around the understanding, design, development, and evaluation of computing solutions and human-machine interfaces that improve the way we interact with, work with, and communicate through machines. A majority of our research considers AI driven Extended Reality user interfaces in the context of physical and mental health, such as Virtual-, Mixed- or Augmented Reality systems. Examples of these are assistive technologies for medical procedures or systems to assess and diagnose pathologies and disorders.
+
+        To do so, we strive for foundational, translational, and radical scientific contributions with high methodological and experimental quality. Our research is inspired by multiple disciplines, including but not limited to Computer Science, Psychology, Design, Medicine, and Neuroscience. We incorporate methods from these disciplines, such as computer vision, computer graphics, artificial intelligence, and user-centered design in a broad methodological bandwidth to support our research goals. We closely interact with partners from medicine and industry to incorporate different perspectives.
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
