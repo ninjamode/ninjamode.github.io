@@ -8,4 +8,4 @@ tags: [funded]
 
 ---
 
-Some information on the KARVIMIO project
+Some information on the KARVIMIO project.
