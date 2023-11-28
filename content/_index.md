@@ -8,9 +8,10 @@ sections:
   - block: markdown
     content:
       title: |
+        About us
         <br>
         {{< figure src="logo_hex-petrol.png" caption="" >}}
-      subtitle: About Us
+      subtitle: HEX Lab
       text: |
         ## Imagineering novel languages for the communication between humans (and machines).
         <br>
