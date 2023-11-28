@@ -1,6 +1,5 @@
 ---
 title: Karvimio Project
-date: 2020-12-02
 summary: ""
 
 # Cover image
@@ -16,9 +15,6 @@ image:
   preview_only: false
 
 tags: [funded]
-
-authors:
-  - admin
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
