@@ -26,6 +26,7 @@ sections:
 
       
   - block: collection
+    id: news
     content:
       title: Latest News
       subtitle:
