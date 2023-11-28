@@ -6,6 +6,9 @@ image:
 
 tags: [funded]
 
+authors:
+  - Daniel Roth
+
 ---
 
 Some information on the KARVIMIO project.

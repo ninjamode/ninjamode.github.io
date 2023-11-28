@@ -10,8 +10,8 @@ sections:
       title: |
         <br>
         {{< figure src="logo_hex-petrol.png" caption="" >}}
-        HEX Lab - About Us
-      subtitle: ""
+        HEX Lab
+      subtitle: About Us
       text: |
         ## Imagineering novel languages for the communication between humans (and machines).
         <br>
