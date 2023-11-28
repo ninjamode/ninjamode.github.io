@@ -9,10 +9,9 @@ sections:
     content:
       title: |
         <br>
-        About us
-        <br>
         {{< figure src="logo_hex-petrol.png" caption="" >}}
-      subtitle: HEX Lab
+        HEX Lab - About Us
+      subtitle: ""
       text: |
         ## Imagineering novel languages for the communication between humans (and machines).
         <br>
@@ -54,8 +53,8 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
         - Principal Investigators
+        - Senior Researchers
         - Researchers
-        - Grad Students
         - Administration
         - Visitors
         - Alumni
@@ -71,6 +70,62 @@ sections:
       # Show user's organizations/affiliations?
       show_organizations: false
 
+  - block: portfolio
+    id: research
+    content:
+      title: Research
+      text: Some description of our research.
+      filters:
+        # Folders to display content from
+        folders:
+          - research
+        # Only show content with these tags
+        tags: []
+        # Exclude content with these tags
+        exclude_tags: []
+        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
+        kinds:
+          - page
+      # Field to sort by, such as Date or Title
+      sort_by: 'Date'
+      sort_ascending: false
+      # Default portfolio filter button
+      # 0 corresponds to the first button below and so on
+      # For example, 0 will default to showing all content as the first button below shows content with *any* tag
+      default_button_index: 0
+      # Filter button toolbar (optional).
+      # Add or remove as many buttons as you like.
+      # To show all content, set `tag` to "*".
+      # To filter by a specific tag, set `tag` to an existing tag name.
+      # To remove the button toolbar, delete the entire `buttons` block.
+      #buttons:
+      #  - name: All
+      #    tag: '*'
+      #  - name: Deep Learning
+      #    tag: Deep Learning
+      #  - name: Other
+      #    tag: Demo
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      # Choose a listing view
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+
+  - block: markdown
+    id: vacancies
+    content:
+      title: Open Positions
+      subtitle: ""
+      text: |
+        ---
+        There are currently no open PhD or Postdoc positions. We will regularly update this page as positions open up, check back later!
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 
   - block: contact
     id: contact

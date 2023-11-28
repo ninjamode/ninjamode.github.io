@@ -14,7 +14,7 @@ main:
     url: /research
     weight: 40
   - name: Open Positions
-    url: /positions
+    url: /vacancies
     weight: 50
   - name: Contact
     url: /#contact
