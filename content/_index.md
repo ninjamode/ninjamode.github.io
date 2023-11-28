@@ -38,7 +38,7 @@ sections:
 
   - block: markdown
     content:
-      title: This is markdown and a logo {{< figure src="image.jpg" caption="test" theme="light" >}}
+      title: This is markdown and a logo {{< figure src="welcome.jpg" caption="" theme="light" >}}
       subtitle: About Us
       text: The **Human-Centered Design and Extended Reality Lab** is super cool.
     design:
