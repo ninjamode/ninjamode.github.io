@@ -8,6 +8,7 @@ sections:
   - block: markdown
     content:
       title: |
+        <br>
         About us
         <br>
         {{< figure src="logo_hex-petrol.png" caption="" >}}
