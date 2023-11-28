@@ -5,17 +5,17 @@
 
 main:
   - name: News
-    url: #posts
+    url: /#section-markdown
     weight: 20
   - name: People
-    url: #Latest-News
+    url: /#section-people
     weight: 30
-  - name: Events
-    url: #section-markdown
+  - name: Research
+    url: /research
     weight: 40
-  - name: Publications
-    url: /#section-markdown
+  - name: Open Positions
+    url: /positions
     weight: 50
   - name: Contact
-    url: "#section-markdown"
+    url: /#contact
     weight: 60

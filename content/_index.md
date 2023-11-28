@@ -8,10 +8,12 @@ sections:
   - block: markdown
     content:
       title: |
+        <br>
         {{< figure src="logo_hex-petrol.png" caption="" >}}
       subtitle: About Us
       text: |
         ## Imagineering novel languages for the communication between humans (and machines).
+        <br>
 
         Our research is centered around the understanding, design, development, and evaluation of computing solutions and human-machine interfaces that improve the way we interact with, work with, and communicate through machines. A majority of our research considers AI driven Extended Reality user interfaces in the context of physical and mental health, such as Virtual-, Mixed- or Augmented Reality systems. Examples of these are assistive technologies for medical procedures or systems to assess and diagnose pathologies and disorders.
 
