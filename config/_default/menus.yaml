@@ -11,11 +11,11 @@ main:
     url: #Latest-News
     weight: 30
   - name: Events
-    url: event
+    url: #section-markdown
     weight: 40
   - name: Publications
-    url: publication
+    url: /#section-markdown
     weight: 50
   - name: Contact
-    url: contact
+    url: "#section-markdown"
     weight: 60
