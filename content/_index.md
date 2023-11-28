@@ -26,19 +26,10 @@ sections:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '2'
 
-  - block: markdown
-    content:
-      title: " thing {{< figure src="welcome.jpg" caption="" theme="light" >}}"
-      subtitle: About Us
-      text: The **Human-Centered Design and Extended Reality Lab** is super cool.
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '2'
 
   - block: markdown
     content:
-      title: {{< figure src="welcome.jpg" caption="" theme="light" >}}
+      title: {{< figure src="logo_hex-petrol.png" caption="" theme="light" >}}
       subtitle: About Us
       text: |
         ## Imagineering novel languages for the communication between humans (and machines).
