@@ -28,7 +28,7 @@ sections:
 
   - block: markdown
     content:
-      title: " ![HEX Lab logo](welcome.jpg "Logo") "
+      title: " thing "
       subtitle: About Us
       text: The **Human-Centered Design and Extended Reality Lab** is super cool.
     design:
