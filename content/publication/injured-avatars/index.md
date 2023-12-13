@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Injured Avatars: The Impact of Embodied Anatomies and Virtual Injuries on Well-being and Performance"
 authors:
 - Constantin Kleinbeck
 - Daniel Roth
