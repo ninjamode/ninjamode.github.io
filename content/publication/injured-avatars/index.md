@@ -1,11 +1,12 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Constantin Kleinbeck
+- Daniel Roth
+
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
@@ -30,11 +31,13 @@ tags:
 - Source Themes
 featured: false
 
+# Custom links (uncomment lines below)
 # links:
-# - name: ""
-#   url: ""
+# - name: Custom Link
+#   url: http://example.org
+
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -61,7 +64,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 {{% callout note %}}
