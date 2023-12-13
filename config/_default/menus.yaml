@@ -13,6 +13,9 @@ main:
   - name: Research
     url: /#research
     weight: 40
+  - name: Publications
+    url: /#publications
+    weight: 45
   - name: Open Positions
     url: /#vacancies
     weight: 50

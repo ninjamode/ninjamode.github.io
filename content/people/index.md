@@ -14,7 +14,7 @@ sections:
           - Principal Investigators
           - Senior Researchers
           - Researchers
-          - Administration
+          - Organisators
           - Visitors
           - Alumni
       sort_by: Params.last_name

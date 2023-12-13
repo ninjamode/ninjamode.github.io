@@ -113,6 +113,26 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
+  - block: collection
+    id: publications
+    content:
+      title: Publications
+      subtitle:
+      text:
+      count: 4
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: publication
+    design:
+      view: compact
+      columns: '2'
+
   - block: markdown
     id: vacancies
     content:
