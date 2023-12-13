@@ -25,12 +25,9 @@ organizations:
 bio: My research interests include Virtual and Augmented Reality, 3D Rendering, Interactivity and AI.
 
 interests:
-  - Virtual Reality
-  - Augmented Reality
+  - Virtual & Augmented Reality
   - Artificial Intelligence
-  - 3D Rendering
-  - User Interface
-  - Interactivity
+  - Rendering, Interface & Interactivity
 
 education:
   courses:
