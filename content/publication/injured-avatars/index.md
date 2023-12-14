@@ -76,9 +76,10 @@ projects: []
 slides: ""
 ---
 
+Presented at ISMAR 2023 in Sydney. 
+
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Message us regarding access to the code, as it contains proprietary packages.
 {{% /callout %}}
 
 
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
