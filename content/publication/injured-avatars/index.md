@@ -39,11 +39,13 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Paper
+  url: https://ieeexplore.ieee.org/document/10269734
+- name: PDF
+  url: 'injured-avatars.pdf'
 
-url_pdf: https://ieeexplore.ieee.org/document/10269734
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
