@@ -76,9 +76,11 @@ projects: []
 slides: ""
 ---
 
-Presented at ISMAR 2023 in Sydney. 
+Presented at ISMAR 2023 in Sydney. See the video below for a quick visual introduction.
 
-{{< youtube Wbxs_qXYZQY >}}
+{{< youtube xnqQO5KheGc >}}
+
+<br>
 
 {{% callout note %}}
 Message us regarding access to the code, as it contains proprietary packages.
