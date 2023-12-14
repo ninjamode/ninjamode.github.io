@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Luisa Theelke
+title: Shiyu Li
 
 # Full Name (for SEO)
-first_name: Luisa
-last_name: Theelke
+first_name: Shiyu
+last_name: Li
 
 # Is this the primary user of the site?
 superuser: false
@@ -65,4 +65,4 @@ user_groups:
   - Researchers
 ---
 
-Luisa page text to do.
+Shiyu page text to do.
