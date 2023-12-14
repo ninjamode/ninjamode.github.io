@@ -8,7 +8,7 @@ sections:
   - block: markdown
     content:
       title: |
-        <br>
+        
         {{< figure src="logo_hex-petrol.png" caption="" >}}
         HEX Lab
       subtitle: About Us
