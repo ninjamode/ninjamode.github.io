@@ -31,6 +31,9 @@ interests:
 
 education:
   courses:
+    - course: Guest Researcher 
+      institution: Johns hopkins University, Baltimore, ARCADE Lab
+      year: 2023
     - course: PhD 
       institution: FAU Erlangen / TU Munich
       year: 2021
