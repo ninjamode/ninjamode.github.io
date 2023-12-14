@@ -43,7 +43,7 @@ links:
 - name: Paper
   url: https://ieeexplore.ieee.org/document/10269734
 - name: PDF
-  url: 'injured-avatars.pdf'
+  url: 'Kleinbeck-2023-injured-avatars.pdf'
 
 url_pdf: ''
 url_code: ''
