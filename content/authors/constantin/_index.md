@@ -36,13 +36,13 @@ education:
       year: 2023
     - course: PhD 
       institution: FAU Erlangen / TU Munich
-      year: 2021
+      year: 2021 - now
     - course: MSc in Human Computer Interaction
       institution: Massachusetts Institute of Technology
-      year: 2009
+      year: 2018
     - course: BSc in Human Computer Interaction
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
