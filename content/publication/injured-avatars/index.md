@@ -2,16 +2,20 @@
 title: "Injured Avatars: The Impact of Embodied Anatomies and Virtual Injuries on Well-being and Performance"
 authors:
 - Constantin Kleinbeck
+- Hannah Schieber
+- Julian Kreimeier
+- Alejandro Martin-Gomez
+- Mathias Unberath
 - Daniel Roth
 
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2023"
+doi: "10.1109/TVCG.2023.3320224"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-12-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
