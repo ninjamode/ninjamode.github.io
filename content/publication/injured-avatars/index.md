@@ -36,7 +36,7 @@ abstract: |
 
 tags:
 - Journal Publication
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
