@@ -155,8 +155,8 @@ sections:
       subtitle: ''
       text: ''
       # Contact details - edit or remove options as needed
-      email: test@example.org
-      phone: 888 888 88 88
+      # email: ''
+      # phone: 888 888 88 88
       address:
         street: Trogerstrasse 10
         city: Munich
