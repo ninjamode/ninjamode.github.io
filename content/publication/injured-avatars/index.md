@@ -78,6 +78,8 @@ slides: ""
 
 Presented at ISMAR 2023 in Sydney. 
 
+{{< youtube Wbxs_qXYZQY >}}
+
 {{% callout note %}}
 Message us regarding access to the code, as it contains proprietary packages.
 {{% /callout %}}
