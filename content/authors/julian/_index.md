@@ -26,16 +26,16 @@ interests:
   - Interfaces & Interactivity
 
 education:
-    courses:
-     - course: PhD (Dr.-Ing.)
+  courses:
+    - course: PhD (Dr.-Ing.) 
       institution: TU Dresden / TH Nürnberg
-      year: 2022
+      year: 2018-2022
     - course: MSc in Medical Engineering
       institution: FAU Erlangen
-      year: 2017
+      year: 2014-2017
     - course: BSc in Medical Engineering
       institution: FAU Erlangen
-      year: 2014
+      year: 2011-2014
 
 
 # Social/Academic Networking
