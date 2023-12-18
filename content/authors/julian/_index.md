@@ -26,8 +26,7 @@ interests:
   - Interfaces & Interactivity
 
 education:
-  courses:
-  courses:
+    courses:
      - course: PhD (Dr.-Ing.)
       institution: TU Dresden / TH Nürnberg
       year: 2022
