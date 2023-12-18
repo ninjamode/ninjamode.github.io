@@ -14,20 +14,29 @@ role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-  - name: Friedrich-Alexander Universität Erlangen-Nürnberg
+  - name: TU Munich / Klinikum rechts der Isar
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: To Do
+bio: I studied medical engineering (Bachelor and Master) at FAU Erlangen and finished my PhD at TU Dresden and TH Nürnberg. My research interests include HCI and connections to AI, especially VR and AR as well as interdisciplinary applications...
 
 interests:
-  - To Do
+  - Virtual & Augmented Reality
+  - Artificial Intelligence
+  - Interfaces & Interactivity
 
 education:
   courses:
-    - course: To Do
-      institution: To Do University
-      year: 1234
+  courses:
+     - course: PhD (Dr.-Ing.)
+      institution: TU Dresden / TH Nürnberg
+      year: 2022
+    - course: MSc in Medical Engineering
+      institution: FAU Erlangen
+      year: 2017
+    - course: BSc in Medical Engineering
+      institution: FAU Erlangen
+      year: 2014
 
 
 # Social/Academic Networking
@@ -37,16 +46,16 @@ education:
 social:
   #- icon: envelope
   #  icon_pack: fas
-  #  link: 'mailto:test@example.org'
+  #  link: 'mailto:julian.kreimeier@tum.org'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
   #- icon: google-scholar
   #  icon_pack: ai
-  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #  link: https://scholar.google.com/citations?user=hNhoihUAAAAJ&hl=de
   #- icon: github
   #  icon_pack: fab
-  #  link: https://github.com/gcushen
+  #  link: https://github.com/JulianKreimeier
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
