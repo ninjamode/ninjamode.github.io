@@ -21,13 +21,20 @@ organizations:
 bio: My research interests include 3D vision, AR application.
 
 interests:
-  - Painting, hiking
+  - 6D pose estimation and 3D object tracking
+  - AR assembly guidance
 
 education:
   courses:
-    - course: To Do
-      institution: To Do University
-      year: 1234
+    - course: PhD 
+      institution: FAU Erlangen / TU Munich
+      year: 2022 - now
+    - course: MSc in Automotive Engineering
+      institution: Technical University Munich
+      year: 2019-2022
+    - course: BSc in Vehicle Engineering
+      institution: Beijing Institute of Technology
+      year: 2015-2019
 
 
 # Social/Academic Networking
@@ -65,4 +72,4 @@ user_groups:
   - Researchers
 ---
 
-Shiyu page text to do.
+Shiyu is a PhD candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. His research interests include 6D pose estimation, 3D object tracking and AR assembly guidance. He has some Engineering backgrounds in the fields of AI, Robotics, Mechanical Engineering during his bachelor and master study.
