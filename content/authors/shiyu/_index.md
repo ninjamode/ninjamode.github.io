@@ -18,10 +18,10 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: To Do
+bio: My research interests include 3D vision, AR application.
 
 interests:
-  - To Do
+  - Painting, hiking
 
 education:
   courses:
