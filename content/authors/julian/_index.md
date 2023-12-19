@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I studied medical engineering (Bachelor and Master) at FAU Erlangen and finished my PhD at TU Dresden and TH Nürnberg. My research interests include HCI and connections to AI, especially VR and AR as well as interdisciplinary applications...
+bio: I studied medical engineering (Bachelor and Master) at FAU Erlangen and finished my PhD at TU Dresden and TH Nürnberg. My research interests include HCI and connections to AI, especially VR and AR as well as interdisciplinary applications.
 
 interests:
   - Virtual & Augmented Reality
@@ -73,4 +73,4 @@ user_groups:
   - Senior Researchers
 ---
 
-Julian page text to do.
+I studied medical engineering (Bachelor and Master) at FAU Erlangen and finished my PhD in computer science at TU Dresden and TH Nürnberg. I've been authoring research on AR/VR for accessibility, urban transportation, sustainability, and medical use cases. My research interests include HCI and connections to AI, especially VR and AR and interdisciplinary applications.
