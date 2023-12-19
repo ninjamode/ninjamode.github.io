@@ -21,7 +21,8 @@ organizations:
 bio: My research interests include 3D vision, AR application.
 
 interests:
-  - 6D pose estimation and 3D object tracking
+  - 6D pose estimation
+  - 3D object tracking
   - AR assembly guidance
 
 education:
