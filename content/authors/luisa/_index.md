@@ -21,13 +21,21 @@ organizations:
 bio: To Do
 
 interests:
-  - To Do
+  - Digital Health
+  - Machine Learning
+  - Human-Computer Interaction
 
 education:
   courses:
-    - course: To Do
-      institution: To Do University
-      year: 1234
+    - course: PhD
+      institution: FAU Erlangen-Nürnberg / TU Munich, Germany
+      year: since Dec. 2021
+    - course: M.Sc. in Medical Engineering
+      institution: FAU Erlangen-Nürnberg
+      year: 2022
+    - course: B.Sc. in Medical Engineering
+      institution: FAU Erlangen-Nürnberg
+      year: 2019
 
 
 # Social/Academic Networking
@@ -35,15 +43,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  #- icon: envelope
-  #  icon_pack: fas
-  #  link: 'mailto:test@example.org'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:luisa.theelke@tum.de'
   #- icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
-  #- icon: google-scholar
-  #  icon_pack: ai
-  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=cvZEdbwAAAAJ
   #- icon: github
   #  icon_pack: fab
   #  link: https://github.com/gcushen
@@ -65,4 +73,4 @@ user_groups:
   - Researchers
 ---
 
-Luisa page text to do.
+Luisa is a PhD candidate at the Professorship for Machine Intelligence in Orthopedics / Human-Centered Computing and Extended Reality Lab of TU Munich. During her PhD, she focuses on infection prediction and decision support in acute care and investigates how new AI-driven human-computer interaction interfaces can be embedded into clinical routines. She received her bachelor's and master's degrees in medical engineering from FAU Erlangen-Nürnberg.
