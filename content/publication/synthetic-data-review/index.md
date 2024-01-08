@@ -40,7 +40,7 @@ links:
 - name: Paper
   url: https://www.sciencedirect.com/science/article/pii/S1077314223002874
 - name: PDF
-  url: 'Schieber-2024-journal-preproof'
+  url: 'Schieber-2024-journal-preproof.pdf'
 
 url_pdf: ''
 url_code: ''
