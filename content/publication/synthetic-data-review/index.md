@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Example rendering from different tools used to generate synthetic data.'
   focal_point: ""
   preview_only: false
 
