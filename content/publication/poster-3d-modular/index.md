@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "A Modular Approach for 3D Reconstruction with Point Cloud Overlay"
 authors:
 - Hannah Schieber
 - Fritz Schmid
