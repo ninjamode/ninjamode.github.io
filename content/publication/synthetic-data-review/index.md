@@ -22,12 +22,14 @@ publishDate: "2024-12-24T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computer Vision ang Image Understanding*"
-publication_short: "CVIU"
+publication: "*IEEE Transactions on Visualization and Computer Graphics*"
+publication_short: "TVCG"
 
 abstract: |
-  Objective 
-#: Deep learning-based object recognition, 6D pose estimation, and semantic scene understanding require a large amount of training data to achieve generalization. Time-consuming annotation processes, privacy, and security aspects lead to a scarcity of real-world datasets. To overcome this lack of data, synthetic data generation has been proposed, including multiple facets in the area of domain randomization to extend the data distribution. The objective of this review is to identify methods applied for synthetic data generation aiming to improve 6D pose estimation, object recognition, and semantic scene understanding in indoor scenarios. We further review methods used to extend the data distribution and discuss best practices to bridge the gap between synthetic and real-world data. Methods: We adhered to the guidelines of the systematic PRISMA technique. Three databases, IEEE Xplore, Springer Link, and ACM, and an additional manual search were conducted. In total, we identified 241 studies and included 34 in our systematic review. Conclusion: In summary, synthetic data generation has been performed using crop-out methods, graphic APIs, 3D modeling or authoring tools, or game engine-based methods. To extend the data distribution, varying scene parameters, i.e., lighting conditions or textures and the use of distracting objects in the scene are promising.
+  Human cognition relies on embodiment as a fundamental mechanism. Virtual avatars allow users to experience the adaptation, control, and perceptual illusion of alternative bodies. Although virtual bodies have medical applications in motor rehabilitation and therapeutic interventions, their potential for learning anatomy and medical communication remains underexplored.
+  For learners and patients, anatomy, procedures, and medical imaging can be abstract and difficult to grasp. Experiencing anatomies, injuries, and treatments virtually through one's own body could be a valuable tool for fostering understanding. This work investigates the impact of avatars displaying anatomy and injuries suitable for such medical simulations. We ran a user study utilizing a skeleton avatar and virtual injuries, comparing to a healthy human avatar as a baseline. We evaluate the influence on embodiment, well-being, and presence with self-report questionnaires, as well as motor performance via an arm movement task.
+  Our results show that while both anatomical representation and injuries increase feelings of eeriness, there are no negative effects on embodiment, well-being, presence, or motor performance. These findings suggest that virtual representations of anatomy and injuries are suitable for medical visualizations targeting learning or communication without significantly affecting users' mental state or physical control within the simulation.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -38,9 +40,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: https://www.sciencedirect.com/science/article/pii/S1077314223002874
-# - name: PDF
-#  url: 'Schieber-2024-journal-preproof.pdf'
+  url: https://ieeexplore.ieee.org/document/10269734
+- name: PDF
+  url: 'Kleinbeck-2023-injured-avatars.pdf'
 
 url_pdf: ''
 url_code: ''
@@ -54,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Example rendering from different tools used to generate synthetic data.'
+  caption: 'Person in VR with anatomical and injured body, completing line tracing task'
   focal_point: ""
   preview_only: false
 
@@ -73,14 +75,14 @@ projects: []
 slides: ""
 ---
 
+Presented at ISMAR 2023 in Sydney. See the video below for a quick visual introduction.
 
+{{< youtube xnqQO5KheGc >}}
 
 <br>
 
 {{% callout note %}}
-
+Message us regarding access to the code, as it contains proprietary packages.
 {{% /callout %}}
-
-
 
 
