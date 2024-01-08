@@ -39,8 +39,8 @@ featured: true
 links:
 - name: Paper
   url: https://www.sciencedirect.com/science/article/pii/S1077314223002874
-- name: PDF
-  url: 'Schieber-2024-journal-preproof.pdf'
+# - name: PDF
+#  url: 'Schieber-2024-journal-preproof.pdf'
 
 url_pdf: ''
 url_code: ''
@@ -72,6 +72,14 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+
+
+<br>
+
+{{% callout note %}}
+
+{{% /callout %}}
 
 
 
