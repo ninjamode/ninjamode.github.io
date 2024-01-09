@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Indoor Synthetic Data Generation: A Systematic Review"
 authors:
 - Hannah Schieber
 - Kubilay Can Demir
