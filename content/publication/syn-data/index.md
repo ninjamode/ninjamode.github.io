@@ -25,7 +25,9 @@ publication_types: ["article-journal"]
 publication: "*Computer Vision and Image Understanding*"
 publication_short: "CVIU"
 
-# abstract: |
+abstract: |
+  *Objective*: Deep learning-based object recognition, 6D pose estimation, and semantic scene understanding require a large amount of training data to achieve generalization. Time-consuming annotation processes, privacy, and security aspects lead to a scarcity of real-world datasets. To overcome this lack of data, synthetic data generation has been proposed, including multiple facets in the area of domain randomization to extend the data distribution. The objective of this review is to identify methods applied for synthetic data generation aiming to improve 6D pose estimation, object recognition, and semantic scene understanding in indoor scenarios. We further review methods used to extend the data distribution and discuss best practices to bridge the gap between synthetic and real-world data. 
+  *Methods*: We adhered to the guidelines of the systematic PRISMA technique. Three databases, IEEE Xplore, Springer Link, and ACM, and an additional manual search were conducted. In total, we identified 241 studies and included 34 in our systematic review. Conclusion: In summary, synthetic data generation has been performed using crop-out methods, graphic APIs, 3D modeling or authoring tools, or game engine-based methods. To extend the data distribution, varying scene parameters, i.e., lighting conditions or textures and the use of distracting objects in the scene are promising.
   
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,6 +40,8 @@ featured: true
 links:
 - name: Paper
   url: https://www.sciencedirect.com/science/article/pii/S1077314223002874?via%3Dihub
+- name: PDF
+  url: 'Schieber-2024-journal-preproof.pdf'
 
 url_pdf: ''
 url_code: ''
