@@ -65,7 +65,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Person in VR with anatomical and injured body, completing line tracing task'
+  caption: 'Example renderings from the same scene using different tools.'
   focal_point: ""
   preview_only: false
 
