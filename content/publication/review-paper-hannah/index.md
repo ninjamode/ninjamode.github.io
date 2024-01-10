@@ -1,18 +1,17 @@
 ---
-title: "Some Title"
+title: "Indoor synthetic data generation: A systematic review"
 authors:
-- Constantin Kleinbeck
 - Hannah Schieber
-- Julian Kreimeier
-- Alejandro Martin-Gomez
-- Mathias Unberath
+- Kubilay Can Demir
+- Constantin Kleinbeck
+- Seung Hee Yang
 - Daniel Roth
 
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2023"
-doi: "10.1109/TVCG.2023.3320224"
+doi: "10.1016/j.cviu.2023.103907"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-12-01T00:00:00Z"
@@ -41,9 +40,7 @@ featured: true
 # Custom links (uncomment lines below)
 links:
 - name: Paper
-  url: https://ieeexplore.ieee.org/document/10269734
-- name: PDF
-  url: 'Kleinbeck-2023-injured-avatars.pdf'
+  url: https://www.sciencedirect.com/science/article/pii/S1077314223002874?via%3Dihub
 
 url_pdf: ''
 url_code: ''
