@@ -14,7 +14,7 @@ date: "2023"
 doi: "10.1016/j.cviu.2023.103907"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-01T00:00:00Z"
+publishDate: "2023-24-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,8 +22,8 @@ publishDate: "2023-12-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Transactions on Visualization and Computer Graphics*"
-publication_short: "TVCG"
+publication: "*Computer Vision and Image Understanding*"
+publication_short: "CVIU"
 
 abstract: |
   Objective: Deep learning-based object recognition, 6D pose estimation, and semantic scene under-
