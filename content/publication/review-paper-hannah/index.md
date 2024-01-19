@@ -52,8 +52,7 @@ featured: true
 links:
 - name: Paper
   url: https://www.sciencedirect.com/science/article/pii/S1077314223002874?via%3Dihub
-- name: PDF
-  url: '2024_AIxVR_MR_Sense_preprint.pdf'
+
 
 url_pdf: ''
 url_code: ''

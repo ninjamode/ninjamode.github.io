@@ -37,14 +37,14 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Website
-  url: https://hannahhaensen.github.io/mr-sense/
+- name: PDF
+  url: '2024_AIxVR_MR_Sense_preprint.pdf'
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://hannahhaensen.github.io/mr-sense/'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -71,5 +71,10 @@ projects: []
 slides: ""
 ---
 
+<br>
+
+{{% callout note %}}
+We gratefully acknowledge funding for this study by d.hip campus.
+{{% /callout %}}
 
 
