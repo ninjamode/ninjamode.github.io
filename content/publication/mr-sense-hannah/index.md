@@ -39,14 +39,12 @@ featured: true
 links:
 - name: PDF
   url: '2024_AIxVR_MR_Sense_preprint.pdf'
-- Website
-  url: 'https://hannahhaensen.github.io/mr-sense/'
 
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://hannahhaensen.github.io/mr-sense/'
 url_slides: ''
 url_source: ''
 url_video: ''
