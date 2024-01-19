@@ -14,7 +14,7 @@ date: "2023"
 doi: "10.1016/j.cviu.2023.103907"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-24-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -52,6 +52,8 @@ featured: true
 links:
 - name: Paper
   url: https://www.sciencedirect.com/science/article/pii/S1077314223002874?via%3Dihub
+- name: PDF
+  url: '2024_AIxVR_MR_Sense_preprint.pdf'
 
 url_pdf: ''
 url_code: ''
