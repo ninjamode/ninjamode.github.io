@@ -11,7 +11,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2023"
+date: "2024"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -39,6 +39,8 @@ featured: true
 links:
 - name: PDF
   url: '2024_AIxVR_MR_Sense_preprint.pdf'
+- Website
+  url: 'https://hannahhaensen.github.io/mr-sense/'
 
 url_pdf: ''
 url_code: ''
