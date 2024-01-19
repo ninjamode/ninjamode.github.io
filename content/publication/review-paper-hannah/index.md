@@ -10,7 +10,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2023"
+date: "2024"
 doi: "10.1016/j.cviu.2023.103907"
 
 # Schedule page publish date (NOT publication's date).
@@ -58,7 +58,7 @@ url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://hannahhaensen.github.io/Synthetic-Data-A-Systematic-Review/'
 url_slides: ''
 url_source: ''
 url_video: ''
