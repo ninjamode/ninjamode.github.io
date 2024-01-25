@@ -1,7 +1,7 @@
 ---
 title: Karvimio Project
 date: 2023-12-02
-summary: ""
+summary: "KARVIMIO is a three-year BMBF funded project with a total volume of 1.73 Million Euros."
 
 # Cover image
 # To use, place an image named `featured.jpg/png` in your page's folder.
