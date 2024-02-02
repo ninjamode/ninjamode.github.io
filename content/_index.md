@@ -145,9 +145,11 @@ sections:
       subtitle: ""
       text: |
         ---
+        ### Student
         We are looking for a lab assistant (20hours a week) to support lab activities. Computer Scientist, strong coding and demo skills, preferably background in robotics or augmented / virtual reality.
 
         ---
+        ### PhD / Postdoc
         There are currently no open PhD or Postdoc positions. We will regularly update this page as positions open up, check back later!
     design:
       # See Page Builder docs for all section customization options.
