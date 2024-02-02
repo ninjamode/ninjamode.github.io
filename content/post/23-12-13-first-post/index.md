@@ -7,7 +7,7 @@ image:
 
 # Welcome!
 
-Welcome to HEX Lab! Established in 2021 and relocated to the Technical University of Munich (TUM) in 2023, the Human-Centered Computing and Extended Reality Lab aims at pioneering new technologies for the enhancement of medical care and healthcare. We pursue fundamental, translational, and radical blue-sky research to improve medicine for patients and healthcare professionals.
+Welcome to HEX Lab. Established in 2021 and relocated to the Technical University of Munich (TUM) in 2023, the Human-Centered Computing and Extended Reality Lab aims at pioneering new technologies for the enhancement of medical care and healthcare. We pursue fundamental, translational, and radical blue-sky research to improve medicine for patients and healthcare professionals.
 
 We adopt a holistic perspectivce on machine intelligence emphasizing on AI-driven technologies that enable meaningful collaboration between humans and machines. Therefore, we operate at the intersections of the fields of human-computer interaction, artificial intelligence, extended reality, robotics, and medicine.
 
