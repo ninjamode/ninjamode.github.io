@@ -10,7 +10,7 @@ last_name: Kreimeier
 superuser: false
 
 # Role/position
-role: Senior Researcher Scientists
+role: Senior Research Scientists
 
 # Organizations/Affiliations
 organizations:
@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Senior Researchers
+  - Senior Research Scientist
 ---
 
 I studied medical engineering (Bachelor and Master) at FAU Erlangen and finished my PhD in computer science at TU Dresden and TH Nürnberg. I've been authoring research on AR/VR for accessibility, urban transportation, sustainability, and medical use cases. My research interests include HCI and connections to AI, especially VR and AR and interdisciplinary applications.

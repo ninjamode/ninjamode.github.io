@@ -10,7 +10,7 @@ last_name: Roth
 superuser: true
 
 # Role/position
-role: Professor 
+role: Head 
 
 # Organizations/Affiliations
 organizations:
