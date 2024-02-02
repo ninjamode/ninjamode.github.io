@@ -179,7 +179,9 @@ sections:
         postcode: '81675'
         country: Germany
         country_code: DE
-      directions: Find us on the third floor.
+      directions: |
+        Find us on the third floor.<br>
+        Please direct postal deliveries to <i>c/o Fritz Seidl, Trogerstrasse 10</i>
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
       #  - 'Wednesday 09:00 to 10:00'
