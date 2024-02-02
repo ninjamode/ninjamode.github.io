@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Victor Schaack
+title: Kristoffer Waldow
 
 # Full name (for SEO)
 first_name: n
@@ -8,7 +8,7 @@ last_name: n
 
 # Username (this should match the folder name)
 authors:
-  - victor
+  - kris
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-  - name: TU Munich
+  - name: Org
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -64,10 +64,10 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - External Researchers
 
 ---
 
-Victor bio.
+Kris bio.
 
 
