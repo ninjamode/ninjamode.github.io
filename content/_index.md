@@ -159,7 +159,12 @@ sections:
     content:
       title: Contact
       subtitle: ''
-      text: ''
+      text: |
+        Prof. Dr. Daniel Roth
+        Technical University of Munich
+        Klinikum rechts der Isar
+        Machine Intelligence in Orthopedics
+        Human-Centered Computing and Extended Reality Lab
       # Contact details - edit or remove options as needed
       # email: ''
       # phone: 888 888 88 88
