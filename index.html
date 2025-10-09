@@ -35,9 +35,9 @@
       font-family: Inter, sans-serif;
       font-weight: 400;
       font-size: 30px;
-      font-size: clamp(24px, 4vmin, 34px);
+      font-size: clamp(26px, 4vmin, 34px);
       max-width: 900px;
-      margin: 70px 10vw 10px 10vw;
+      margin: 10vh 10vw 10px 10vw;
 
     }
     h1 {
@@ -48,6 +48,7 @@
     }
     p {
       line-height: 1.6em;
+      font-family: system-ui, sans-serif;
     }
     a {
       position: relative;
@@ -83,10 +84,16 @@
     .nobreak {
       display: inline-block;
     }
+    .smaller {
+      font-size: 0.8em;
+    }
 
-    @media (min-height: 555px) and (min-width: 600px) {
+    @media (min-height: 600px) and (min-width: 620px) {
       h1 {
           margin-top: clamp(0px, 10vw - 100px , 5vw);
+      }
+      main {
+        font-size: clamp(22px, 4vmin, 34px);
       }
     }
     @media (prefers-reduced-motion: reduce) {
@@ -120,8 +127,8 @@
   <main>
     <h1>Hi!</h1>
     <p>
-      I'm Constantin, a software developer, ux person and technology enthusiast
-      from Munich, Germany. At this time I am pursuing a doctorate at Technical University of Munich as part of <span class="nobreak"><a href="https://hex-lab.io/">HEX Lab</a>.</span>
+      I'm Constantin, a software developer, ux person and technology enthusiastfrom Munich, Germany.
+      At this time I am pursuing a doctorate at Technical University of Munich as part of <span class="nobreak"><a href="https://hex-lab.io/">HEX Lab</a>.</span>
     </p>
     <p>
       Feel free to reach out via
@@ -129,7 +136,13 @@
     </p>
     <p>
       Find my publications on 
-      <span class="nobreak"><a href="https://scholar.google.com/citations?user=XnnWzYgAAAAJ&hl=en">Google Scholar</a>.</span>
+      <span class="nobreak"><a href="https://scholar.google.com/citations?user=XnnWzYgAAAAJ&hl=en">Google Scholar</a></span>, and code on 
+      <span class="nobreak"><a href="https://github.com/ninjamode/">Github</a>.</span>
+    </p>
+    <p class="smaller">
+      You might be interested in...<br>
+      <span class="nobreak">→ <a href="https://github.com/ninjamode/Unity-VR-Gaussian-Splatting">Gaussian Splatting for VR?</a></span><br>
+      <span class="nobreak">→ <a href="https://hex-lab.io/author/constantin-kleinbeck/">My research profile?</a></span><br>
     </p>
   </main>
 </body>
